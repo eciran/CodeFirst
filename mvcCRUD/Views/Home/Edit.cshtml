@@ -1,0 +1,33 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <h2>Update Student</h2>
+        </div>
+        <div class="col-lg-6 col-lg-12">
+            <form role="form" method="post" action="/Home/Duzenle">
+                <input name="ID" value="@Model.ID" class="form-control" placeholder="ogrenci ID" />
+                <input name="Name" value="@Model.Name" class="form-control" placeholder="ogrenci isim" />
+                <input name="Surname" value="@Model.Surname" class="form-control" placeholder="ogrenci soyisim" />
+                <input name="Age" value="@Model.Age" class="form-control" placeholder="ogrenci yas" />
+                <input name="Grade" value="@Model.Grade" class="form-control" placeholder="ogrenci not" />
+                <div class="text-right">
+                    <button type="submit" class="btn btn-info">Update</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

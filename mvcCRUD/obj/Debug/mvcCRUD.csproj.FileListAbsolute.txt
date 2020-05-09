@@ -1,0 +1,146 @@
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\mvcCRUD.dll.config
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\mvcCRUD.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\mvcCRUD.pdb
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\csc.exe
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\csc.exe.config
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\csc.rsp
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\csi.exe
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\csi.exe.config
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\csi.rsp
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Console.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\vbc.exe
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\vbc.rsp
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\EntityFramework.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\System.Web.Helpers.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\System.Web.Mvc.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\System.Web.Razor.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\System.Web.Webpages.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\System.Web.Webpages.Razor.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\EntityFramework.xml
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\System.Web.Razor.xml
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\System.Web.Webpages.xml
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\System.Web.Webpages.Razor.xml
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\System.Web.Helpers.xml
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\System.Web.Mvc.xml
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\obj\Debug\mvcCRUD.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\obj\Debug\mvcCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\obj\Debug\mvcCRUD.csproj.CopyComplete
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\obj\Debug\mvcCRUD.dll
+C:\Users\Administrator\source\repos\mvcCRUD\mvcCRUD\obj\Debug\mvcCRUD.pdb
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\mvcCRUD.dll.config
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\mvcCRUD.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\mvcCRUD.pdb
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\csc.exe
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\csc.exe.config
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\csc.rsp
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\csi.exe
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\csi.exe.config
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\csi.rsp
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Console.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\vbc.exe
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\vbc.exe.config
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\vbc.rsp
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\EntityFramework.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\System.Web.Helpers.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\System.Web.Mvc.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\System.Web.Razor.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\System.Web.Webpages.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\System.Web.Webpages.Razor.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\EntityFramework.xml
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\System.Web.Razor.xml
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\System.Web.Webpages.xml
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\System.Web.Webpages.Razor.xml
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\System.Web.Helpers.xml
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\System.Web.Mvc.xml
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\obj\Debug\mvcCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\obj\Debug\mvcCRUD.csproj.CopyComplete
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\obj\Debug\mvcCRUD.dll
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\obj\Debug\mvcCRUD.pdb
+C:\Users\Emrah Ciran\Desktop\BilgeAdam\MVC\2020.03.01\2020.03.01\mvcCRUD\mvcCRUD\mvcCRUD\obj\Debug\mvcCRUD.csprojAssemblyReference.cache
